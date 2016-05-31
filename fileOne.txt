@@ -1,2 +1,3 @@
 Adding some content to the file.
 adding a new lined in the file.
+adding the third line. Now the file will both be in staging as well as modified.
