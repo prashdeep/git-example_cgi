@@ -4,3 +4,4 @@ adding the third line. Now the file will both be in staging as well as modified.
 adding few more changes to create conflicts.
 adding some changes to create conflict in the files.
 one more line to mimic the conflicts in the files.
+adding the third lsdfsdfsdfdsfine. Now the file will both be in staging as well as modified.
